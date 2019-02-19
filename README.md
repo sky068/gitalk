@@ -1,2 +1,3 @@
 # gitalk
-hexo blog gitalk comments
+save gitalk comments
+用来存放gitalk评论
